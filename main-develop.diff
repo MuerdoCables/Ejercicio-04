@@ -1,0 +1,7 @@
+diff --git a/fichero.txt b/fichero.txt
+index e69de29..c839a77 100644
+--- a/fichero.txt
++++ b/fichero.txt
+@@ -0,0 +1 @@
++Otro texto de ejemplo
+\ No newline at end of file
